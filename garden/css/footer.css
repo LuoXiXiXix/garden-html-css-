@@ -1,0 +1,124 @@
+
+.footer-last{
+  width: 100%;
+  background-color: #1b1b31;
+}
+.inner-last{
+  width: 1230px;
+  margin: 0 auto;
+  position: relative;
+}
+.footer-last .foot-left{
+  padding: 110px 0 150px;
+  float: left;
+}
+.footer-last .foot-left h1{
+  font-size: 36px;
+  color: #fff;
+  font-weight: 800;
+  margin: 0 0 25px;
+}
+.footer-last .foot-left h3{
+  color: #9c9cae;
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+.footer-last .foot-left h2{
+  font-size: 18px;
+  color: #fff;
+  font-weight: 800;
+}
+.footer-last .foot-left a{
+  display: block;
+  font-size: 16px;
+  color: #9c9cae;
+  margin-top:8px;
+}
+.footer-last .foot-left a:hover{
+  color: #fff;
+}
+.foot-title{
+  padding: 125px 0 150px;
+  margin-left:440px;
+}
+.foot-title .foot-two{
+  margin-left:80px;
+  float: left;
+}
+.foot-title .foot-one{
+  float: left;
+}
+.foot-title h3{
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom:30px;
+}
+.foot-title ul li a{
+  display: block;
+  font-size: 16px;
+  color: #9c9cae;
+  margin-top:20px;
+}
+.foot-title ul li a:hover{
+  color: #ea4c89;
+  transition-duration:0.5s;
+}
+.foot-three{
+  margin-top:-40px;
+  margin-left:400px;
+}
+.foot-three form input{
+  width: 293px;
+  height: 50px;
+  padding: 20px;
+  font-size: 14px;
+  background-color: #1b1b31;
+  border: 2px solid #38384b;
+  border-radius: 0;
+  margin-top:30px;
+  box-sizing: border-box;
+}
+.foot-three form input:last-child{
+  height: 100px;
+}
+.foot-three form input:hover{
+  color: #fff;
+}
+.foot-btn{
+  width:138px;
+  height: 52px;
+  background-color: #ea4c89;
+  margin-top:50px;
+  margin-left:50.8%;
+}
+.foot-btn a{
+  display: block;
+  text-align:center;
+  line-height: 52px;
+  font-size: 16px;
+  color:#fff;
+  margin-top:50px;
+}
+.foot-btn:hover{
+  background-color: #68b028;
+  transition-duration:1s;
+}
+.foot-line{
+  width: 100%;
+  border-bottom: 1px solid #323246;
+}
+.foot-but h3{
+  padding:25px 0;
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size:16px;
+  color: #fff;
+  float: left;
+}
+.foot-but a{
+  margin-left:10px;
+  text-align: center;
+  color: #ea4c89;
+}

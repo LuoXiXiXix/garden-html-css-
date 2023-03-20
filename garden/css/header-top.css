@@ -1,0 +1,32 @@
+
+
+.header-top-inner {
+  width: 84.4%;
+  margin: 0 auto;
+  /* background-color: #ccc; */
+}
+
+.logo {
+  width: 268px;
+  float: left;
+  margin-top: 23px;
+}
+
+.top-nav {
+  float: left;
+  margin-top: 23px;
+  margin-left: 250px;
+}
+
+.top-nav ul li {
+  float: left;
+}
+
+.top-nav ul li+li {
+  margin-left: 37px;
+}
+
+.bar{
+  float: right;
+  margin-top: 23px;
+}
